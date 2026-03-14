@@ -10,7 +10,7 @@ This app uses a Scikit-Learn machine learning model (KNN Regressor)
 to estimate the sale price of a house based on the features you input.
 """)
 
-st.divider()
+#st.divider()
 
 
 @st.cache_resource
