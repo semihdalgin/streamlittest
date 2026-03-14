@@ -1,7 +1,6 @@
-pandas
-scikit-learn
-numpy
-streamlit
-pyarrow
-altair
-pickle
+pandas>=2.1
+scikit-learn==1.4.2
+numpy==1.23.5
+streamlit>=1.42
+pyarrow>=14.0.1
+altair>==4
